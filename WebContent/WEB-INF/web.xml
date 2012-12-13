@@ -19,4 +19,14 @@
     <servlet-name>AvalehtVC</servlet-name>
     <url-pattern>/AvalehtVC</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>AndmebaasVC</display-name>
+    <servlet-name>AndmebaasVC</servlet-name>
+    <servlet-class>viewController.AndmebaasVC</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>AndmebaasVC</servlet-name>
+    <url-pattern>/AndmebaasVC</url-pattern>
+  </servlet-mapping>
 </web-app>

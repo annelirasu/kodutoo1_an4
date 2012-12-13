@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Avaleht, siia lingid
+<a href="AndmebaasVC">tee db</a>>
 </body>
 </html>
